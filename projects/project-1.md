@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/eagleproject.JPG
 title: Eagle Project
-permalink: projects/in
+permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-25
 labels:
