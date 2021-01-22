@@ -1,16 +1,15 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/eagleproject.JPG
+title: Eagle Project
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-02
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Leadership
+  - Volunteering
+summary: In 2018, I brought together some friends and family to complete a service project at Moanalua Middle School, where we cleaned up and painted an area of the school that had been worn down.
 ---
 
 <div class="ui small rounded images">
