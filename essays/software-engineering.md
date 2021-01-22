@@ -8,6 +8,7 @@ labels:
   - Software Engineering
   - Learning
 ---
+
 ## The Importance of Software Engineering
 Software engineering is typically defined as "taking a systematic engineering approach to the maintenance and development of software." When I think of software engineering, I think of it as a necessary skill to have in order for a computer scientist to be successful in their field and not just a mandatory class that I inevitably had to take to get my B.S. in Computer Science. The reason why I think it is so important to have is because of its seemingly endless applications and diversity. Especially in a world dominated by technology and a time plagued by a pandemic, being a computer scientist with software engineering skills is now more urgent than ever. 
 ## Skills and Experiences I Hope to Develop
