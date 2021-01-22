@@ -5,7 +5,7 @@ image: images/eagleproject.JPG
 title: Eagle Project
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2018-02
+date: 2018-02-25
 labels:
   - Leadership
   - Volunteering
