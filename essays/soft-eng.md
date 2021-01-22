@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Software Engineering: The Future of Computer Science
+title: "Software Engineering: The Future of Computer Science"
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 labels:
