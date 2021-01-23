@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/javaeclipse.jpg
 title: ICS 111 Project
-permalink: projects/cotton
+permalink: projects/ics111project
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-01
 labels:
