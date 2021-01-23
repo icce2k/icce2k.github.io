@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Database.png
 title: Database for ICS 212
-permalink: projects/vacay
+permalink: projects/ics212database
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-01
 labels:
