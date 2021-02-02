@@ -14,7 +14,7 @@ summary: In 2018, I brought together some friends and family to complete a servi
 
 <img class="ui medium right floated rounded image" src="../images/eagle.JPG">
 
-In order to achieve the rank of Eagle, the highest rank in Scouting, one of the final requirements is to complete an Eagle Project. In short, a potential Eagle Scout must plan and carry out a service project that benefits a community or organization. A well conducted Eagle Project demonstrates the Scout's leadership skills that he has gained throughtout his journey through Scouting.
+In order to achieve the rank of Eagle, the highest rank in Scouting, one of the final requirements is to complete an Eagle Project. In short, a potential Eagle Scout must plan and carry out a service project that benefits a community or organization. A well conducted Eagle Project demonstrates the Scout's leadership skills that he has gained throughout his journey through Scouting.
 
 For this project, I decided to go back to my old middle school, Moanalua Middle to inquire about any service projects that they may have. After getting in contact with Vice Principal Barron Iwamura, he informed me of an area of the school that could use some refurbishing. This area included a raised, grassy, stage and surrounding flora that could use some trimming. In order to complete the project, I gathered some of my fellow scouts and my family and led them through various tasks such as painting the stage, cutting the surrounding grass, tilling the perimeter of the stage and planting bushes and plants, etc. Finally, I asked a family friend to create a fiber glass sign that read "Home of the Mustangs" to install over the stage.
 
