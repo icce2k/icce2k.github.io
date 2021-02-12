@@ -7,6 +7,8 @@ date: 2021-02-10
 labels:
 ---
 
+<img class="ui medium right floated rounded image" src="../images/code-quality-standard.png">
+
 ## What Are Coding Standards?
 Unless you are some sort of advanced supercomputer, then you most likely have written incorrect code. And what I mean by "incorrect" is not that the output is necessarily incorrect but that you failed to abide by coding standards and the IDE you were using started threatening you with those relentless red lines under your code. As programmers, we sometimes pull our hair out when correcting all of our code and trying to please whoever is giving us these errors. Unfortunately, there is no one to blame but ourselves because the IDE, or more specifically the lint tool, is simply binded by the code style of the language you are programming in and therefore must enforce coding standards. Some programmers like myself haven't even heard of coding standards but do what the lint tool says anyway. Luckily, coding standards were created for programmers to give a uniform appearance to code written by different people and ensure code quality. They are enforced to detect and remove basic coding mistakes that are associated with the language or library you are using.
 
