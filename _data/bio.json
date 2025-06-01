@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Isaiah Eusebio",
-    "label": "Student",
+    "label": "Software Developer",
     "picture": "https://github.com/icce2k.png",
     "email": "isaiahc.eusebio@gmail.com",
     "phone": "808-829-1215",
     "website": "https://icce2k.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Aspiring software developer with a B.S. in Computer Science.",
+    "location": { "address": "", "postalCode": "97006", "city": "Beaverton", "countryCode": "USA", "region": "Oregon" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "icce2k", "url": "http://github.com/icce2k" },
+      { "network": "linkedin", "username": "isaiah-eusebio", "url": "http://linkedin.com/in/isaiah-eusebio" },
+      { "network": "", "username": "", "url": "" },
+      { "network": "", "username": "", "url": "" }
     ]
   },
   "interests": [
